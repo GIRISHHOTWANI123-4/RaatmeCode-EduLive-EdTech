@@ -1,0 +1,30 @@
+.h1{
+  font-family:cursive;
+  font-size: cursive;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 300%;
+  color:#B22222;
+}
+
+.button1{
+  margin-right: 20%;
+  margin-left: 20%;
+  border-radius: 10%;
+  border-color: #B22222;
+  padding: 2%;
+  font-family:cursive;
+  font-size: cursive;
+  font-weight: bolder;
+  font-size: 100%;
+}
+
+.button2{
+  border-radius: 10%;
+  border-color: #B22222;
+  padding: 2%;
+  font-family:cursive;
+  font-size: cursive;
+  font-weight: bolder;
+  font-size: 100%;
+}

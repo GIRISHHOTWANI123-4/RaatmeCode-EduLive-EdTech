@@ -1,0 +1,21 @@
+.App {
+  padding-top:60px;
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  background-color: #778899;
+  padding-bottom: 30px;
+}
+.Button{
+  
+  padding-top: 80px;
+  color: red;
+  margin-top: 80px;
+
+}
+.h3{
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: 10px;
+  color:#282c34;
+}

@@ -1,0 +1,26 @@
+.main{
+  background-color: #778899;
+  padding-bottom: 90px;
+}
+.sign{
+  align-items:center;
+  margin-left:600px;;
+  margin-top: 250px;
+}
+.h3{
+  font-family: cursive;
+  font-style: italic;
+  font-weight:bolder;
+
+}
+
+.button{
+  margin-top: 25px;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 13px;
+  font-family:cursive;
+  font-weight: bolder;
+  font-size: 20px;
+  border-color:grey;
+}
