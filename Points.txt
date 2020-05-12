@@ -1,0 +1,7 @@
+
+1.Teacher page shi se krle. ye alag se banana padega kyuki database se hai mere isme.
+2.Login aur sign up ache se bana le .uske ke liye App aur index.js lagenge.tere isme setup krlena .
+3.QuestionPaper ke liye CSS bhi .ise bhi alag se run krna padega.
+
+
+-----setup me kuch problem aya tho bol----------
