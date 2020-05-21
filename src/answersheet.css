@@ -1,0 +1,27 @@
+#quizForm{
+ font-family: cursive;
+ background-color: cadetblue;
+ padding-bottom: 350px;
+ padding-left: 20px;
+}
+.heading{
+  font-family: cursive;
+  font-size:50px;
+  text-align: center;
+  text-decoration: underline;
+}
+.button{
+    border-radius: 15px;
+    height: 25px;
+}
+#input{
+    width: 10px;
+    height:20px;
+    text-align: center;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.options{
+    padding-left: 20px;
+}

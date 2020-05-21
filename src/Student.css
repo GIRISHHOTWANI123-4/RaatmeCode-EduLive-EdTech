@@ -1,21 +1,42 @@
-.App {
-  padding-top:60px;
-  text-align: center;
-  font-size: 40px;
-  font-family: cursive;
-  background-color: #778899;
-  padding-bottom: 30px;
-}
-.Button{
-  
-  padding-top: 80px;
-  color: red;
-  margin-top: 80px;
 
+.logout {
+    margin-left: 1250px;
 }
-.h3{
-  font-family: sans-serif;
-  font-style: italic;
-  font-weight: 10px;
-  color:#282c34;
+
+.Button{
+   padding-top: 250px;
+   padding-left: 270px;
+}
+
+.divider{
+    width:10em;
+    height:auto;
+    display:inline-block;
+}
+
+.h3 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: #282c34;
+}
+
+.back{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./bb.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+#bt,#bt1,#bt2,#bt3{
+
+    color: #fff;
+    border: 1px solid transparent;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#bt:hover,#bt1:hover,#bt2:hover{
+    background-color: #fff;
+    color: #000;
 }
