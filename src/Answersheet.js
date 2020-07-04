@@ -14,9 +14,9 @@ function AnswerSheet() {
 
 
     function display(value) {
-        {   ++count;
-            //console.log(value.defaultValue);
-        }
+           ++count;
+
+
         return (
             <Input question={value.question} option1={value.option1} option2={value.option2}
      option3={value.option3} option4={value.option4} answer={"answer" + count.toString()} count={count.toString()}/>

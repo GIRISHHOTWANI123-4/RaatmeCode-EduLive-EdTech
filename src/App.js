@@ -9,7 +9,6 @@ import './Student.css';
 import './App.css';
 import QuestionPaper from "./QuestionPaper";
 
-// import AnswerSheet from "./Answersheet";
 
 function App() {
     return (

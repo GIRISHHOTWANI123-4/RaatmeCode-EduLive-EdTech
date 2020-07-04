@@ -1,8 +1,10 @@
 import React from "react";
 
-const login=()=>{
+const login=(props)=>{
     return{
-        type:"LOGIN"
+        type:"LOGIN",
+        username:props.username,
+        role:props.role
     }
 }
 
